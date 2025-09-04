@@ -35,3 +35,4 @@ source /home/arthur.vinson/code/sybic2001/dotfiles/zsh-syntax-highlighting/zsh-s
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
