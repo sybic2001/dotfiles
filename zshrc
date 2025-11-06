@@ -141,4 +141,4 @@ gcp() {
     git add .
     git commit -m "$full_msg"
     git push
-}
+}export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
